@@ -101,10 +101,10 @@ A list of views which forte has.
 
 * Search. Search all abums, artists and songs matching a query.
 
-Improvemens
------------
+Improvements
+------------
 
-* Advanced  Recommendations
+* Advanced Recommendations
 
 Design Inspiration
 ------------------
