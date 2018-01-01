@@ -1,2 +1,4 @@
 Forte.sketch filter=lfs diff=lfs merge=lfs -text
 .exportedArtboards/** filter=lfs diff=lfs merge=lfs -text
+Artwork.prd filter=lfs diff=lfs merge=lfs -text
+Heart.prd filter=lfs diff=lfs merge=lfs -text
